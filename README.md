@@ -14,23 +14,25 @@ Buck converters are a workhorse in the world of electronics, efficiently steppin
 ![CH32V003_block.png](https://github.com/yasir-shahzad/MIC2101-5V_9A-Buck-Converter-Module/blob/master/images/Schematic.png)
 
 ## Features
-- QingKe 32-bit RISC-V2A processor, supporting 2 levels of interrupt nesting
-- Maximum 48MHz system main frequency
-- 2KB SRAM, 16KB Flash
-- Operating voltage: 2.7V - 5.5V
-- Multiple low-power modes: Sleep, Standby
-- Power on/off reset, programmable voltage detector
-- 1x 7-channel DMA controller
-- 1x op-amp comparator
-- 1x 10-bit 10-channel ADC
-- 1× 16-bit advanced-control timer
-- 1× 16-bit general-purpose timer
-- 2x watchdog timer (IWDT, WWDT)
-- 1× 32-bit SysTick timer
-- 1x USART interface, 1x I2C interface, 1x SPI interface
-- 18 I/O ports, mapping an external interrupt
-- 64-bit chip unique ID
-- Single-wire serial debug interface (SDI)
+### Features:
+
+- **Input Voltage**: 5 to 38 V (See below for regulator's dropout voltage details)
+- **Output Voltage**: Fixed 5 V (±4% accuracy); adjustable with external resistor
+- **Output Current**: Typically 4 A to 8 A continuous
+- **Protection Features**:
+  - Integrated reverse-voltage protection
+  - Over-current and short-circuit protection
+  - Over-temperature shutoff
+  - Soft-start
+  - Under-voltage lockout
+- **Efficiency**: Typically 80% to 95%, varying with input voltage and load
+- **Switching Frequency**: Automatically adjusted at light loads for high efficiency
+- **Quiescent Current**: 800 µA typical no-load; adjustable down to 10 µA/V on VIN
+- **Power Good Output**: Indicates inability to maintain set output voltage
+- **Compact Size**: 1.6" × 0.8" × 0.3" (40.6 × 20.3 × 7.6 mm)
+- **Mounting**: Four 0.086" holes for #2 or M2 screws
+- **Connectivity Options**: Smaller holes for 0.1" header pins; larger holes for terminal blocks
+
 
 # References, Links and Notes
 - [EasyEDA Design Files](https://oshwlab.com/wagiminator)
