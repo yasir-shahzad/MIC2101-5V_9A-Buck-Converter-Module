@@ -4,7 +4,7 @@ Introducing our DC-DC Buck Converter: Adjustable, Efficient, delivering 5V at 9A
 ![CH32V003A4M6_DevBoard_pic1.jpg](https://github.com/yasir-shahzad/MIC2101-5V_9A-Buck-Converter-Module/blob/master/images/0J5585.1200.jpg)
 
 # Pinout
-![CH32V003A4M6_DevBoard_pinout.png](https://raw.githubusercontent.com/wagiminator/Development-Boards/main/CH32V003A4M6_DevBoard/documentation/CH32V003A4M6_DevBoard_pinout.png)
+![CH32V003A4M6_DevBoard_pinout.png](https://github.com/yasir-shahzad/MIC2101-5V_9A-Buck-Converter-Module/blob/master/images/0J5587.400.jpg)
 
 # The CH32V003 Family of 32-bit RISC-V Microcontrollers
 ## Overview
