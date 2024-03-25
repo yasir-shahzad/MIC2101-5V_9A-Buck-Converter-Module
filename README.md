@@ -53,7 +53,7 @@ Buck converters are a workhorse in the world of electronics, efficiently steppin
 
 # License
 
-![license.png](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![license.png](https://www.gnu.org/graphics/gplv3-88x31.png)
 
-This work is licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License. 
-(http://creativecommons.org/licenses/by-sa/3.0/)
+This work is licensed under the GNU General Public License v3.0.
+
