@@ -14,7 +14,6 @@ Buck converters are a workhorse in the world of electronics, efficiently steppin
 ![CH32V003_block.png](https://github.com/yasir-shahzad/MIC2101-5V_9A-Buck-Converter-Module/blob/master/images/Schematic.png)
 
 ## Features
-### Features:
 
 - **Input Voltage**: 5 to 38 V (See below for regulator's dropout voltage details)
 - **Output Voltage**: Fixed 5 V (±4% accuracy); adjustable with external resistor
